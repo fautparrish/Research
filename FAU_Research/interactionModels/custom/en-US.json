@@ -1,0 +1,93 @@
+{
+  "interactionModel": {
+    "languageModel": {
+      "invocationName": "f. a. u. research",
+      "intents": [
+        {
+          "name": "AMAZON.CancelIntent",
+          "samples": [
+            "back",
+            "go back",
+            "cancel"
+          ]
+        },
+        {
+          "name": "AMAZON.HelpIntent",
+          "samples": [
+            "what do i say",
+            "how to use this skill",
+            "what can this skill do",
+            "how do i use this skill",
+            "help"
+          ]
+        },
+        {
+          "name": "AMAZON.StopIntent",
+          "samples": [
+            "bye",
+            "end",
+            "stop"
+          ]
+        },
+        {
+          "name": "AMAZON.NavigateHomeIntent",
+          "samples": [
+            "begin",
+            "start over",
+            "home",
+            "go home"
+          ]
+        },
+        {
+          "name": "WhatWeDoIntent",
+          "slots": [],
+          "samples": [
+            "what is your department",
+            "What does your department do",
+            "How do you help",
+            "What do you do",
+            "What does the Research Development office do"
+          ]
+        },
+        {
+          "name": "ContactIntent",
+          "slots": [],
+          "samples": [
+            "contact",
+            "can you give me your contact information",
+            "how do i get a hold of the department",
+            "how can i get a hold of you",
+            "what is your contact info",
+            "contact info",
+            "how can i contact you",
+            "contact information",
+            "How do i contact your department",
+            "How do i contact you",
+            "How do I contact the Research Development Office"
+          ]
+        },
+        {
+          "name": "CollaboratorsIntent",
+          "slots": [],
+          "samples": [
+            "looking for partners",
+            "help with finding partners",
+            "how can i find a partner",
+            "how can i find collab parnters",
+            "collaborators",
+            "connect me with a collaborator",
+            "help me locate a collaborator",
+            "where can i find collaborators",
+            "how do i partner with collaborators",
+            "how do i locate collaborators",
+            "how do i connect with collaborators",
+            "how do i find collaborators",
+            "Are resources available to assist me with locating potential collaborators"
+          ]
+        }
+      ],
+      "types": []
+    }
+  },
+  "version": "6"
+}
